@@ -1,0 +1,65 @@
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+    border: 1px solid white;
+    margin-top: 110px;
+}
+
+body {
+background-image: url("bg.jpg");
+}
+
+h1 {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 100px;
+}
+
+
+.buttons {
+    width: 774px;
+    margin: 0 auto;
+}
+
+
+.buttons ul {
+    list-style: none;
+    padding: 0;
+}
+
+.buttons ul li {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    background: #1Db954;
+    padding: 10px;
+}
+
+.buttons a {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    margin: 0 auto;
+}
+
+
+.usericon {
+    width: 150px;
+    height: auto;
+}
+
+.updateicon {
+    width: 150px;
+    height: auto;
+}
+
+.suppliericon {
+    width: 150px;
+    height: auto;
+}
+
+.itemicon {
+    width: 150px;
+    height: auto;
+}
